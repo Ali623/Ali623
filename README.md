@@ -111,6 +111,10 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=ali623&theme=onedark" />
  </div>
 </p>
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/ali623/ali623/output/github-contribution-grid-snake-dark.svg)
+
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center">
     Connect with me
