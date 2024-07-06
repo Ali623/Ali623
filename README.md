@@ -36,7 +36,7 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
 - **Degree:** MSc in Artificial Intelligence
 - **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-## Languages and Tools:
+## Languages and Tools
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
