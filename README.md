@@ -123,7 +123,7 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
     <a href="https://www.linkedin.com/in/aliullah623/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aliullah623/" />
     </a>
-    <a title="sumitsharma9968@gmail.com" href="mailto:sumitsharma9968@gmail.com">
+    <a title="aliullah623@gmail.com" href="mailto:aliullah623@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aliullah623@gmail.com" />
     </a>
 </p>
