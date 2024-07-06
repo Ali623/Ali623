@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali623&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-## About Me
+<h2 align="left"> About me </h2>
 I am a passionate Machine Learning Engineer and Data Scientist with experience in developing innovative solutions to complex problems. My expertise lies in leveraging data to drive business insights and model development.
 
 - 🔭 I’m currently working on **CV and LLM Projects**
