@@ -104,7 +104,7 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
 
 ## My Journey
 <p align="center">
- <div>
+ <div  align="center">
    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=ali623&show_icons=true&theme=onedark">
    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ali623&layout=compact&theme=onedark" />
    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=ali623&theme=github">
