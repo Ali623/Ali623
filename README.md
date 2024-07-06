@@ -43,8 +43,9 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
 </p>  
 <br>
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/ali623-02/ali623-02/output/github-contribution-grid-snake.svg" alt="Snake Animation for GitHub Contributions"
+    <img align="center" src="https://raw.githubusercontent.com/ali623/ali623/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation for GitHub Contributions"
 </p>
+  
 </br>
 
 <br>
