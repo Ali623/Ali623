@@ -3,8 +3,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali623&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 </br>
+
 ## About Me
-I am a passionate Machine Learning Engineer and Data Scientist with experience in developing innovative solutions to complex problems. My expertise lies in leveraging data to drive business insights and model development.
+<p>I am a passionate Machine Learning Engineer and Data Scientist with experience in developing innovative solutions to complex problems. My expertise lies in leveraging data to drive business insights and model development.
 
 - 🔭 I’m currently working on **CV and LLM Projects**
 - 🌱 I’m currently Studying **MSc. Artificial Intelligence**
@@ -14,7 +15,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with experience i
 - 📫 How to reach me **aliullah623@gmail.com**
 - 📄 Know about my experiences [https://ali623.github.io/](https://ali623.github.io/)
 - ⚡ Fun fact **I love playing Chess**
-
+</p>
 ## Skills
 - **Programming Languages:** Python, R, MATLAB, SQL
 - **Data Analysis and Manipulation:** NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scipy 
