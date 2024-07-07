@@ -1,9 +1,8 @@
 ![logo](https://github.com/Ali623/Ali623/blob/main/Screenshot%202024-07-06%20201755.png) 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali623&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <h2 align="left"> About me </h2>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 I am a passionate Machine Learning Engineer and Data Scientist with experience in developing innovative solutions to complex problems. My expertise lies in leveraging data to drive business insights and model development.
 
 - 🔭 I’m currently working on **CV and LLM Projects**
