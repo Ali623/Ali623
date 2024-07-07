@@ -92,7 +92,7 @@ SMOOTHGRAD Approach for extracting the Neural network insights.
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo"  /></code>
+  <code><img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="30" alt="github logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
   <img width="12" />
