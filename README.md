@@ -37,7 +37,7 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
 - **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 ## Languages and Tools
-<div align="left">
+<div align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
@@ -52,7 +52,11 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  /></code>
   <img width="12" />
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="docker logo"  /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="powerbi logo"  /></code>
+  <img width="12" />
+  <code><img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="30" alt="tableau logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="excel logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
   <img width="12" />
