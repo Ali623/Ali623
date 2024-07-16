@@ -27,7 +27,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with experience i
 ### [Environmental Data Analysis](https://github.com/yourusername/customer-churn)
 Created complete ETL pipeline for analysis of Trees in different regions of Germany.
 
-### [Web based application for Facial Emotion Detection](https://github.com/gmMustafa/FacialEmotionDetection)
+### [Web based application for Facial Emotion Detection (CHEHRA/ CNN)](https://github.com/gmMustafa/FacialEmotionDetection)
 Created a dynamic human-interactive platform that can talk based on Human emotions.
 
 ### [Neural Network dissection - Explainable AI](https://github.com/Ali623/Network-dissection-Explainable-Machine-learning)
