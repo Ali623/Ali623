@@ -33,7 +33,7 @@ Created a dynamic human-interactive platform that can talk based on Human emotio
 ### [Neural Network dissection - Explainable AI](https://github.com/Ali623/Network-dissection-Explainable-Machine-learning)
 SMOOTHGRAD Approach for extracting the Neural network insights.
 
-### [Docker impeplementation of German Text Classification using Machine Learning](https://github.com/Ali623/)
+### [Docker impeplementation of German Text Classification using Machine Learning](https://github.com/Ali623/German-Text-Classification-using-Machine-Learning)
 SMOOTHGRAD Approach for extracting the Neural network insights.
 
 
