@@ -8,7 +8,6 @@ I am a passionate Machine Learning Engineer and Data Scientist with experience i
 - 🔭 I’m currently working on **CV and LLM Projects**
 - 🌱 I’m currently Studying **MSc. Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Exciting Machine Learnging Projects**
-- 👨‍💻 All of my projects are available at [https://ali623.github.io/](https://ali623.github.io/)
 - 💬 Ask me about **ML, DL, LLMs and computer vision**
 - 📫 How to reach me **aliullah623@gmail.com**
 - 📄 Know about my experiences [https://ali623.github.io/](https://ali623.github.io/)
