@@ -1,4 +1,4 @@
-![logo](https://github.com/Ali623/Ali623/blob/main/Screenshot%202024-07-06%20201755.png) 
+![logo](https://github.com/Ali623/Ali623/blob/main/init_page.png) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali623&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ## About me
