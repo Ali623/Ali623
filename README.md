@@ -3,25 +3,45 @@
 
 ## About me
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-I am a passionate Machine Learning Engineer and Data Scientist with experience in developing innovative solutions to complex problems. My expertise lies in leveraging data to drive business insights and model development.
+I am a passionate Machine Learning Engineer and Data Scientist currently working at Siemens while pursuing my MSc in Artificial Intelligence. I specialize in time series forecasting, deep learning, and building production-ready ML systems. I am actively seeking full-time opportunities in Data Analytics, Data Science, Machine Learning Engineering, AI Engineering, and Software Engineering.
 
-- 🔭 I’m currently working on **CV and LLM Projects**
-- 🌱 I’m currently Studying **MSc. Artificial Intelligence**
-- 👯 I’m looking to collaborate on **Exciting Machine Learnging Projects**
-- 💬 Ask me about **ML, DL, LLMs and computer vision**
+- 🔭 I'm currently working as a **Working Student at Siemens** (since Oct 2024)
+- 🌱 I'm currently Studying **MSc. Artificial Intelligence at FAU Erlangen-Nürnberg**
+- 🔍 I'm actively applying for **Data Analyst, Data Scientist, ML Engineer, AI Engineer & Software Engineer** roles
+- 💬 Ask me about **ML, DL, Time Series, LLMs, and Computer Vision**
 - 📫 How to reach me **aliullah623@gmail.com**
 - 📄 Know about my experiences [https://ali623.github.io/](https://ali623.github.io/)
 - ⚡ Fun fact **I love playing Chess**
 
+## Experience
+
+### Working Student — Siemens (Oct 2024 – Present)
+- Finetuned time series foundation models for energy forecasting, increasing forecasting performance by **10–15%**
+- Built and benchmarked energy forecasting models across load, HVAC, renewables, and industrial data, improving accuracy by **10–12%** across client use cases
+- Extended a production forecasting API and benchmarking framework with interpretable features, enriched metrics, and automated tests, improving model selection reliability
+- Delivered Streamlit-based product demos to **500+ stakeholders** at internal and external Siemens events, supporting adoption and validation
+
+## Certifications
+1. Google Data Analytics Specialization — Google
+2. Deep Learning Specialization — DeepLearning.AI
+3. Machine Learning Specialization — DeepLearning.AI
+4. Machine Learning in Production (MLOps) — DeepLearning.AI
+5. Generative AI for Everyone — DeepLearning.AI
+6. Data Visualization with Python — IBM
+7. ChatGPT Prompt Engineering for Developers — DeepLearning.AI
+8. Certified Python Developer — CISCO
+
 ## Skills
 - **Programming Languages:** Python, R, MATLAB, SQL
-- **Data Analysis and Manipulation:** NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scipy 
-- **Machine Learning:** Scikit-learn, Tensorflow, PyTorch, Keras, Transformers, Bert, GPT
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
-- **Database:** SQL, MySQL, SPARQL, BigQuery 
-- **Version Control & Virtualization:** Git, GitHub, Docker
-- **Tools:** Jupyter Notebooks, VS Code, Power BI, Tableau, PyCharm, Hadoop, Spark
-- **Language:** English (Business fluent), German (Beginner) 
+- **Data Analysis & Manipulation:** NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scipy
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch, Keras, Transformers, BERT, GPT, LangChain
+- **Time Series & Forecasting:** ARIMA, SARIMAX, LSTM, HCNN, BLSTM, Foundation Models
+- **MLOps & Experiment Tracking:** MLflow, DagsHub, Docker, Git, GitHub
+- **Data Visualization:** Power BI, Tableau, Streamlit, Matplotlib, Seaborn, Plotly
+- **Databases:** SQL, MySQL, PostgreSQL, SPARQL, BigQuery, MongoDB
+- **Big Data & Cloud:** Hadoop, Spark, Google Cloud, Kubernetes
+- **Tools:** Jupyter Notebooks, VS Code, PyCharm
+- **Languages:** English (Business fluent), German (Beginner)
 
 ## Projects
 ### [Environmental Data Analysis](https://github.com/yourusername/customer-churn)
