@@ -19,7 +19,7 @@ I am a passionate Machine Learning Engineer and Data Scientist currently working
 - Finetuned time series foundation models for energy forecasting, increasing forecasting performance by **10–15%**
 - Built and benchmarked energy forecasting models across load, HVAC, renewables, and industrial data, improving accuracy by **10–12%** across client use cases
 - Extended a production forecasting API and benchmarking framework with interpretable features, enriched metrics, and automated tests, improving model selection reliability
-- Delivered Streamlit-based product demos to **500+ stakeholders** at internal and external Siemens events, supporting adoption and validation
+- Delivered Streamlit-based product demos to **100+ stakeholders** at internal and external Siemens events, supporting adoption and validation
 
 ## Certifications
 1. Google Data Analytics Specialization — Google
