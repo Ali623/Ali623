@@ -129,16 +129,6 @@ This repository contains the code for a machine learning model designed to class
 
 </div>
 
-
-## My Journey
-<p align="center">
- <div  align="center">
-   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=ali623&show_icons=true&theme=onedark">
-   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ali623&layout=compact&theme=onedark" />
-   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=ali623&theme=github">
-   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=ali623&theme=onedark" />
- </div>
-</p>
 <br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center">
